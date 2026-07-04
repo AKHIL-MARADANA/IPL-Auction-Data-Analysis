@@ -115,20 +115,6 @@ The project also displays:
 - Top 5 highest-paid bowlers.
 - Players who played in IPL 2021 but remained unsold in IPL 2022.
 
----
-
-## Project Structure
-
-```
-IPL-Auction-Data-Analysis/
-│
-├── README.md
-├── requirements.txt
-├── ipl_match_result.py
-├── ipl_2022_dataset.csv
-├── ipl-auction-2022-analysis.ipynb
-└── screenshots/
-```
 
 ---
 
