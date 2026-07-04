@@ -74,37 +74,37 @@ The project includes the following analyses:
 - Identified players who played in IPL 2021 but remained unsold in IPL 2022.
 
 ---
-
 ## Visualizations
-
-The following charts are created in this project:
 
 ### 1. Role of Players Participated
 
-Pie chart showing the percentage of different player roles.
+This pie chart shows the percentage of different player roles.
 
-- Batter
-- Bowler
-- All-Rounder
-- Wicket Keeper
+![Role of Players](screenshots/player_roles.png)
 
 ---
 
 ### 2. Sold vs Unsold Players
 
-Bar chart comparing the number of sold and unsold players.
+This bar chart compares the number of sold and unsold players.
+
+![Sold vs Unsold](screenshots/sold_vs_unsold.png)
 
 ---
 
 ### 3. Players Bought by Each Team
 
-Bar chart showing how many players each IPL team purchased during the auction.
+This chart shows how many players each IPL team purchased during the auction.
+
+![Players Bought](screenshots/players_per_team.png)
 
 ---
 
 ### 4. Players in Each Team
 
-Bar chart showing the distribution of player roles in every IPL team.
+This chart shows the distribution of different player roles in each IPL team.
+
+![Players in Team](screenshots/team_type_distribution.png)
 
 ---
 
