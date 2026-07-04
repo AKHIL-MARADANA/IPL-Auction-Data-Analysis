@@ -163,18 +163,6 @@ pip install -r requirements.txt
 
 ---
 
-## Future Improvements
-
-Some features that can be added in the future:
-
-- Team-wise spending analysis.
-- Highest-paid player from each team.
-- Interactive dashboards using Plotly.
-- More auction statistics.
-- Additional player comparison charts.
-
----
-
 ## Author
 
 **Akhil Maradana**
